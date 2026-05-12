@@ -11,8 +11,8 @@
 
 ## 📈 GitHub Stats
 ![My GitHub Streak](https://github.com/programming086/github-streaks/blob/main/assets/Streaks/streak-ocean.svg?raw=true)
-![My GitHub stats](https://github.com/programming086/github-stats/blob/generated/overview.svg#gh-dark-mode-only)
-![My GitHub languages](https://github.com/programming086/github-stats/blob/generated/languages.svg#gh-dark-mode-only)
+![My GitHub stats](https://raw.githubusercontent.com/programming086/github-status/refs/heads/generated/overview.svg#gh-dark-mode-only)
+![My GitHub languages](https://raw.githubusercontent.com/programming086/github-status/refs/heads/generated/languages.svg#gh-dark-mode-only)
 
 ![](https://nirzak-streak-stats.vercel.app/?user=programming086&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=programming086&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
