@@ -11,7 +11,7 @@
 
 ## 📈 GitHub Stats
 ![My GitHub Streak](https://github.com/programming086/github-streaks/blob/main/assets/Streaks/streak-ocean.svg?raw=true)
-![My GitHub stats](https://raw.githubusercontent.com/programming086/github-status/refs/heads/generated/overview.svg#gh-dark-mode-only)
+![My GitHub stats](https://github.com/programming086/github-status/blob/generated/overview.svg?raw=true#gh-dark-mode-only)
 ![My GitHub languages](https://raw.githubusercontent.com/programming086/github-status/refs/heads/generated/languages.svg#gh-dark-mode-only)
 
 <div align="Center">
