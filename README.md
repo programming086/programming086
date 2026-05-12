@@ -14,6 +14,13 @@
 ![My GitHub stats](https://raw.githubusercontent.com/programming086/github-status/refs/heads/generated/overview.svg#gh-dark-mode-only)
 ![My GitHub languages](https://raw.githubusercontent.com/programming086/github-status/refs/heads/generated/languages.svg#gh-dark-mode-only)
 
+<div align="Center">
+<a href="https://github.com/programming086/github-status">
+  <img src="https://github.com/programming086/github-status/blob/generated/overview.svg" />
+  <img src="https://github.com/programming086/github-status/blob/generated/languages.svg" />
+</a>
+</div>
+
 ![](https://github.com/programming086/github-stats/blob/generated/overview.svg#gh-dark-mode-only)
 ![](https://github.com/programming086/github-stats/blob/generated/languages.svg#gh-dark-mode-only)
 
